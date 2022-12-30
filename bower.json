@@ -1,0 +1,35 @@
+{
+  "name": "onesto-fileupload-angular",
+  "version": "0.0.7",
+  "authors": [
+    "Sampo Laaksonen <sampo.laaksonen@onesto.fi>"
+  ],
+  "description": "Angular component for asynchronous file uploads",
+  "main": [
+    "dist/onesto-fileupload-angular.js",
+    "dist/onesto-fileupload-angular.min.js"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angularjs",
+    "fileupload"
+  ],
+  "license": "MIT",
+  "homepage": "onesto.fi",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "vendor",
+    "lib",
+    "build"
+  ],
+  "dependencies": {
+    "ng-file-upload": "~ 2.0.0"
+  }
+}

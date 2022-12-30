@@ -1,0 +1,22 @@
+{
+  "name": "onesto-fileupload-angular",
+  "version": "0.0.7",
+  "description": "Angular component for asynchronous file uploads",
+  "main": "onesto-fileupload-angular.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angularjs",
+    "fileupload"
+  ],
+  "author": "Sampo Laaksonen",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "",
+    "grunt-contrib-coffee": "",
+    "grunt-contrib-uglify": "",
+    "grunt-contrib-copy": "",
+    "grunt-contrib-concat": ""
+  }
+}
